@@ -1,4 +1,4 @@
-# Sales Dashboard of Dirty Superstore
+ Sales Dashboard of Dirty Superstore
 
 ## Description of the Project
 The project is done in Microsoft Power BI.
@@ -25,5 +25,7 @@ Dirty Superstore Dataset
 - Dataset
 - Dashboard Image
 
-## Author
-Meet Borad
+## Dashboard Screenshots
+
+### Sales_Performance_Dashboard.png
+![Sales Performance Dashboard](Sales_Performance_Dashboard.png)
